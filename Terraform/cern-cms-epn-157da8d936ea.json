@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cern-cms-epn",
+  "private_key_id": "157da8d936ead35dc96789e136b8a70a2706928d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQthartx0I2blU\n3ifYvCz2bdDp+E4cWnUgKn3jawROjhabeaIuq+QwZd8kBq9794IzOSOiXgw7pu3h\nCI/NYOiNpI4/OC7NCSgFK5pfPx/RJZurQn7hI/Bweu7hRcEPJcbRIMzUGDxLiRhg\nNwZyBL+LzJwd0PpPXzRT2o0r9TtmhpWq55QqF9Jb6Wzv14DDUob5BfLd2TfAi7nB\nTrFg/vXQTNT7Gv0zqS34JIgWWRdbrNGaGexkx3trHhdCpT7E2a1w0SSkIu/JnpwP\nwC76Jy+wJedUWWw+DG5gOZnn738rg5ZZUHZJDY/iyTsHZa3jFiQyScxTSQJNkanz\n9gI+qndXAgMBAAECggEAETe8Vg0kpYrEmcY79krL0MaNcgfMddVWjUFEImM9NzfM\nkKXvpbcDe6SjzGaKyojIIm6nzGjCzJcAT8yzhEdm1+yH2ZpKbhq/xPFsakgcWVYn\nafDx46Ph3X2ewFHPU+8TYEQ68ZJQQxD7xFA1xWkz3hYSmPkY9TxO5k4E0GgKLvJs\nFikNxOhL/sJRWcFdqFnBPWJr/V6EJ3L5Xx4lShCGNHSrZwmE9emi6mFiWnwDQubn\nJX/fIMP/mydh4E3X6QxG3qCJPbjjjNOagEEiJkzlzS3BIOmJZNhEgo5uUPz3KW+i\nx3pGoQ0J/6MzeyIwj3fEhiro5ekLkuHZNd2WkUFtIQKBgQD71+XTGRCgrq/IomqR\nWvjevCteD8FKIdy4n5LJGLMZRNT4bmFo5JtKxrYNMa5+Ya+yT5kdDbYKCvkChG9k\nF5offcHL783q9LxkuDOaFo7TQMNLuY+UY14HJnZmkdswNNh0TzOqDWLgABtQTkuu\n37rjWPK1NHruDFtvN+iVr4TE4QKBgQDUJ/JkbWHHrhwpNiqN1PPZeb0ioSJL/amX\nXsqjQlzY+IWrvs061+qATQvcm2XhZyvIpPcb4CQ/P3k+tde2IJvSF1vGvAtICQhp\nlmaEM38qc//L8QeGuZNfff9LUrRARBKDLGpOK7mx3aaYe7Qi36OCq0uIoLaqQ6dw\nm/VZe/6LNwKBgQCOl/Cd9NwwTphjHmr+gCbXXm2jpYIIqmGh+2AOErkdfpajT0RC\nMuYmkZp0oAOvtTnY2S7Vf3Tp/Mp+/WNgpehzGi5HfTD3brjYwl8dSNZ3kHzDfH5q\nQ1Ty8XkqnD0h71n7iPi0uT2ZnRXaA2rgyfa0USGjLeLItCB1OY+saSPgoQKBgQCF\ni0Or7aJgE/vMATmWH9cDLPteIfm5xcmL6/I4BBz3wrA5pJgBE0qcSmNOEU93K/9G\nhHi7xkJqwaSrUcGf9jS/cU6m8VVUmcL+29paGyRP78azdFwddREMSf56RmwKDA9v\nHHUqEaIJERG96BhC321IYlTggvGYiY+LddBh7IgUzwKBgQDKf1djs5gO8zRPhryH\newry0W022AU8CUM+ednE20iAFLzt9svssk2pmUNLenA7/R0TAjSWmcJP/TumJV/y\nyYjkVx5NhdJiGUHZ4G2v3Jh75ELl1mtCZQOrMBxt45P9ccYMWsrUCh2kE+aP+AF4\naz4uLL6C48iLfgQYZN5SVraIPA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kubernetes-admin@cern-cms-epn.iam.gserviceaccount.com",
+  "client_id": "109676318066989323552",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kubernetes-admin%40cern-cms-epn.iam.gserviceaccount.com"
+}
